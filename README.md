@@ -42,8 +42,8 @@
 
 Вы можете увидеть фото плат с лицевой и обратной стороны:
 
-- [Лицевая сторона (front)](assets/images/PCB_Preview_1.png)
-- [Обратная сторона (back)](assets/images/PCB_Preview_2.png)
+- [Лицевая сторона](assets/images/PCB_Preview_1.png)
+- [Обратная сторона](assets/images/PCB_Preview_2.png)
 
 ---
 
